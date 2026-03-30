@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kök-Root>
+	<Düğüm-Node>
+		<Child1>Arda</Child1>
+		<Child2>BİÇEREL</Child2>
+		<Child3>5234567890</Child3>
+	</Düğüm-Node>
+	<Düğüm-Node>
+		<Child1>Deniz</Child1>
+		<Child2>Katıkoğlu</Child2>
+		<Child3>62206408675</Child3>
+	</Düğüm-Node>
+	<Düğüm-Node>
+		<Child1>Kemal</Child1>
+		<Child2>Katıkoğlu</Child2>
+		<Child3>78951264268</Child3>
+	</Düğüm-Node>
+</Kök-Root>
