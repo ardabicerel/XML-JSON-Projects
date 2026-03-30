@@ -23,7 +23,7 @@ A comprehensive C# solution containing multiple projects focused on data handlin
 2. Open the solution in **Visual Studio 2022**:
    - Double-click bash```XML_JSON_Projects.sln```.
 3. Database Setup:
-   - For bash```XMLvsADO.NET```, ensure SQL Server LocalDB is running and the Northwind database is attached.
+   - For ```bash XMLvsADO.NET```, ensure SQL Server LocalDB is running and the Northwind database is attached.
 4. Run:
    - Right-click the project you want to test and select Set as Startup Project, then press F5.
   
