@@ -21,7 +21,7 @@ A comprehensive C# solution containing multiple projects focused on data handlin
 1. Clone the repository:
    - ```bash git clone https://github.com/ardabicerel/XML_JSON_Projects.git```
 2. Open the solution in **Visual Studio 2022**:
-   - Double-click bash```XML_JSON_Projects.sln```.
+   - Double-click ```bash XML_JSON_Projects.sln```.
 3. Database Setup:
    - For ```bash XMLvsADO.NET```, ensure SQL Server LocalDB is running and the Northwind database is attached.
 4. Run:
@@ -45,11 +45,11 @@ Veri yönetimi, serileştirme ve veritabanı entegrasyonuna odaklanan birden faz
 ### 🛠️ Kurulum ve Kullanım
 
 1. Depoyu klonlayın:
-   - bash``` git clone https://github.com/ardabicerel/XML_JSON_Projects.git ```
+   - ```bash git clone https://github.com/ardabicerel/XML_JSON_Projects.git ```
 2. Çözümü **Visual Studio 2022** ile açın:
-   - bash```XML_JSON_Projects.sln``` dosyasına çift tıklayın.
+   - ```bash XML_JSON_Projects.sln``` dosyasına çift tıklayın.
 3. Veritabanı Kurulumu:
-   - bash```XMLvsADO.NET``` projesi için SQL Server LocalDB'nin çalıştığından ve Northwind veritabanının bağlı olduğundan emin olun.
+   - ```XMLvsADO.NET``` projesi için SQL Server LocalDB'nin çalıştığından ve Northwind veritabanının bağlı olduğundan emin olun.
 4. Çalıştırma
    - Test etmek istediğiniz projeye sağ tıklayın, **Başlangıç Projesi Olarak Ayarla**'yı seçin ve F5'e basın.
   
